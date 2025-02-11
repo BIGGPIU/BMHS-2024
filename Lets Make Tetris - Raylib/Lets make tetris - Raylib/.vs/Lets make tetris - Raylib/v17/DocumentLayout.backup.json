@@ -34,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gameplay.cpp",
+              "DocumentMoniker": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.cpp",
+              "RelativeDocumentMoniker": "Gameplay.cpp",
+              "ToolTip": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.cpp",
+              "RelativeToolTip": "Gameplay.cpp",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwHUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T18:08:59.628Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -61,26 +74,26 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-21T18:34:02.801Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Gameplay.cpp",
-              "DocumentMoniker": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.cpp",
-              "RelativeDocumentMoniker": "Gameplay.cpp",
-              "ToolTip": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.cpp",
-              "RelativeToolTip": "Gameplay.cpp",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-17T18:08:59.628Z",
-              "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.h",
+              "DocumentMoniker": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.h",
+              "RelativeDocumentMoniker": "main.h",
+              "ToolTip": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.h",
+              "RelativeToolTip": "main.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-21T18:34:58.581Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -92,19 +105,6 @@
               "ViewState": "AgIAAD8AAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-02T20:35:19.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main.h",
-              "DocumentMoniker": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.h",
-              "RelativeDocumentMoniker": "main.h",
-              "ToolTip": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.h",
-              "RelativeToolTip": "main.h",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-21T18:34:58.581Z",
               "EditorCaption": ""
             },
             {

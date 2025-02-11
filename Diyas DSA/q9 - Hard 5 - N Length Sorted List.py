@@ -109,6 +109,7 @@ def myanswer(N,l) -> list:
     # wait is this just quicksort
     # SPACE COMPLEXITY
     # 0(N^log(M)) I think where M is the length of the original list and N is the required size
+    # according to chatgpt this is O(N^2) yeah I wasnt cooking anything
     newlist = []
     
     for i in range(N):
