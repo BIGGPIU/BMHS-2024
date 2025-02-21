@@ -264,6 +264,7 @@ def check():
 
 def myown(string):
     string.replace(" ","")
+    string.replace("?","")
     for i in range(len(string)):
         hold = string[i]
         hold2 = string[-i-1]
