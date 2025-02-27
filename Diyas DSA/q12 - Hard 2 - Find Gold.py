@@ -9,7 +9,7 @@ Class Node:
     self.right = Node | None
     self.left = Node | None
     self.gold = bool ( if the gold is here, True. If the gold is not here, False )
-    self.nick = int ( used for debugging to identify the Node. You may return this value )
+    self.nick = int ( used for debugging to identify the Node. You must return this value )
 
 Restrictions:
 There will always be gold present 
@@ -35,7 +35,7 @@ class Node:
         self.nick = randint(0,9999) 
 
 
-def YARRRGHH11111(head:Node) -> Node|int:
+def YARRRGHH11111(newhead:Node) -> Node|int:
     return 2
 
 
@@ -387,7 +387,7 @@ def check():
     for i in range(len(qs)):
         x = myown(qs[i])
         y = YARRRGHH11111(qs[i])
-        if y not in x:
+        if y[0] not in x and y[1] not in x:
             return f'''
 Failed testcase {i+1}
 

@@ -2,6 +2,9 @@
 #include "main.h";
 #include "timer.h";
 #include "Gameplay.h"
+#include <vector>;
+
+
 
 typedef enum Gamescreen { TITLE, CHOOSE, GAMEPLAY, GAMEOVER } Gamescreen;
 enum Lastheld { LEFT, RIGHT, DOWN, NONE };
@@ -12,12 +15,22 @@ int main(void) {
 	
 	Gamescreen currentscreen = TITLE;
 
+	// Information about the user
+	Player player;
+	player.lastHeldKey = NULL;
+
+	// menu variables 
+	
 	const int maxarrow = 1;
 	int arrowval = 0;
 	int positions[] = { 60,100 };
 
+	// piece and board information
+
 	Piece piece;
 	piece.pieceSize = 50;
+	piece.FFtime = 0.2;
+	piece.gravity = 0.5;
 
 	Board board;
 	board.lBound = piece.pieceSize;
@@ -26,8 +39,19 @@ int main(void) {
 	board.uBound = piece.pieceSize;
 
 	piece.x = board.rBound / 2;
-	piece.y = piece.pieceSize;
+	piece.x -= 50;
+	piece.y = board.uBound;
+	piece.tetromino = 1;
 
+	// timers
+
+	Timer lockdown;
+	double beforeTime = 0;
+	double currentTime;
+
+	// mainloop
+
+	int keyCode = 0;
 	InitWindow(screenWidth, screenHeight, "Tetris - BMHS");
 	ToggleFullscreen();
 	SetTargetFPS(60);
@@ -74,9 +98,27 @@ int main(void) {
 			//DrawText(TextFormat("%02i", arrowval), 500, 500, 32, WHITE); break;
 		}
 		case(GAMEPLAY): {
+			currentTime = GetTime();
 			Makegrid(piece.pieceSize);
-			allocatePieces(piece);
-			makePiece(piece);
+
+			if (IsKeyDown(KEY_RIGHT)) { keyCode = KEY_RIGHT; }
+			else if (IsKeyDown(KEY_LEFT)) { keyCode = KEY_LEFT; }
+			else if (IsKeyDown(KEY_DOWN)) { keyCode = KEY_DOWN; }
+			else if (IsKeyDown(KEY_SPACE)) { keyCode = KEY_SPACE; }
+			else { keyCode = 0; };
+
+			if (canMove(&board, &piece, keyCode)) {
+				movePiece(keyCode, &piece, &board, &player);
+			}
+
+			if (currentTime > beforeTime + piece.gravity) {
+				canFall(piece, board, beforeTime, currentTime);
+			}
+
+			
+			
+			allocatePieces(&piece);
+			makePiece(&piece);
 		}
 		}
 		DrawText("Made By The 2024-2025 BMHS Coding Club", GetScreenWidth() - 700, GetScreenHeight() - 50, 32, WHITE);
@@ -85,3 +127,5 @@ int main(void) {
 	
 	return 0;
 }
+
+

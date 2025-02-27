@@ -7,20 +7,16 @@
       "RelativeMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|solutionrelative:Gameplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|solutionrelative:Gameplay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|solutionrelative:main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\oldmain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|solutionrelative:oldmain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|solutionrelative:main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\oldmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,6 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "oldmain.cpp",
+              "DocumentMoniker": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\oldmain.cpp",
+              "RelativeDocumentMoniker": "oldmain.cpp",
+              "ToolTip": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\oldmain.cpp",
+              "RelativeToolTip": "oldmain.cpp",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAALcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T20:35:19.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gameplay.h",
+              "DocumentMoniker": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.h",
+              "RelativeDocumentMoniker": "Gameplay.h",
+              "ToolTip": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.h",
+              "RelativeToolTip": "Gameplay.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-21T18:40:06.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -44,7 +71,7 @@
               "RelativeDocumentMoniker": "Gameplay.cpp",
               "ToolTip": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.cpp",
               "RelativeToolTip": "Gameplay.cpp",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAIwHUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-17T18:08:59.628Z",
               "EditorCaption": ""
@@ -52,33 +79,16 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Gameplay.h",
-              "DocumentMoniker": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.h",
-              "RelativeDocumentMoniker": "Gameplay.h",
-              "ToolTip": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.h",
-              "RelativeToolTip": "Gameplay.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-21T18:40:06.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-21T18:34:02.801Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+              "WhenOpened": "2025-01-21T18:34:02.801Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -87,34 +97,10 @@
               "RelativeDocumentMoniker": "main.h",
               "ToolTip": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.h",
               "RelativeToolTip": "main.h",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-21T18:34:58.581Z",
+              "WhenOpened": "2025-02-25T19:23:22.024Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "oldmain.cpp",
-              "DocumentMoniker": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\oldmain.cpp",
-              "RelativeDocumentMoniker": "oldmain.cpp",
-              "ToolTip": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\oldmain.cpp",
-              "RelativeToolTip": "oldmain.cpp",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-02T20:35:19.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "oldmain.h",
-              "DocumentMoniker": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\oldmain.h",
-              "RelativeDocumentMoniker": "oldmain.h",
-              "ToolTip": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\oldmain.h",
-              "RelativeToolTip": "oldmain.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-02T20:44:03.093Z"
             }
           ]
         }

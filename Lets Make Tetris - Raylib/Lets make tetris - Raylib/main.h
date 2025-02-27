@@ -1,18 +1,26 @@
 #pragma once
 #include "raylib.h"
+#include "Timer.h"
+#include <vector>
 
 struct Piece {
+	//position info
 	int x;
 	int y;
-	//Rectangle info; // things: piece.info.x, piece.info.y, piece.info.width, piece.info.height
 	int z;
+	
+	// piece info
 	int pieceSize;
 	double gravity;
 	double FFtime;
-	int lowestposition;
-	double lockdowntimer;
 	int tetromino;
 	int moves;
+
+	//board info
+	int lowestposition;
+	double lockdowntimer;
+
+	// Things for the blocks
 	Rectangle block1;
 	Rectangle block2;
 	Rectangle block3;
@@ -25,4 +33,11 @@ struct Board {
 	int lBound;
 	int uBound;
 	int bBound; 
+
+	std::vector<int> piecePositions;
+};
+
+struct Player {
+	int lastHeldKey;
+	Timer FFtimer;
 };
