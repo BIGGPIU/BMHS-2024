@@ -3,7 +3,8 @@
 #include "timer.h";
 #include "Gameplay.h"
 #include <vector>;
-
+#include <stdio.h>
+#include <iostream>
 
 
 typedef enum Gamescreen { TITLE, CHOOSE, GAMEPLAY, GAMEOVER } Gamescreen;
@@ -37,11 +38,8 @@ int main(void) {
 	board.rBound = piece.pieceSize * 12;
 	board.bBound = piece.pieceSize * 22;
 	board.uBound = piece.pieceSize;
-
-	piece.x = board.rBound / 2;
-	piece.x -= 50;
-	piece.y = board.uBound;
-	piece.tetromino = 1;
+	
+	generateNewPiece(piece, board);
 
 	// timers
 
@@ -88,7 +86,7 @@ int main(void) {
 		ClearBackground(BLACK);
 		switch (currentscreen) {
 		case(TITLE):
-			DrawText("TETRIS", 20, 20, 32, WHITE);
+			DrawText("Blockstack", 20, 20, 32, WHITE);
 			DrawText("Hit Enter To Start", 20, 60, 32, WHITE); break;
 		case(CHOOSE): {
 			DrawText("CHOOSE YOUR MODE", 20, 20, 32, WHITE);
@@ -98,8 +96,13 @@ int main(void) {
 			//DrawText(TextFormat("%02i", arrowval), 500, 500, 32, WHITE); break;
 		}
 		case(GAMEPLAY): {
+			const char x = char(sizeof(board.piecePositions) / sizeof(board.piecePositions[0]));
+			//std::cout << sizeof(board.piecePositions) / sizeof(board.piecePositions[0]) << std::endl;
+			std::cout << x << std::endl;
+			DrawText(&x, 900, 50, 32, WHITE);
 			currentTime = GetTime();
 			Makegrid(piece.pieceSize);
+			makeOldPieces(&board);
 
 			if (IsKeyDown(KEY_RIGHT)) { keyCode = KEY_RIGHT; }
 			else if (IsKeyDown(KEY_LEFT)) { keyCode = KEY_LEFT; }
@@ -112,7 +115,7 @@ int main(void) {
 			}
 
 			if (currentTime > beforeTime + piece.gravity) {
-				canFall(piece, board, beforeTime, currentTime);
+				canFall(piece, board, beforeTime, currentTime); // this is called once before the rectangles are placed on the board
 			}
 
 			

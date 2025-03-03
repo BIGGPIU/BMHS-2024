@@ -25,6 +25,10 @@ struct Piece {
 	Rectangle block2;
 	Rectangle block3;
 	Rectangle block4;
+	Rectangle block1Hitbox;
+	Rectangle block2Hitbox;
+	Rectangle block3Hitbox;
+	Rectangle block4Hitbox;
 };
 
 
@@ -34,10 +38,11 @@ struct Board {
 	int uBound;
 	int bBound; 
 
-	std::vector<int> piecePositions;
+	std::vector<Rectangle> piecePositions;
 };
 
 struct Player {
 	int lastHeldKey;
 	Timer FFtimer;
+	Timer spaceDelay;
 };
