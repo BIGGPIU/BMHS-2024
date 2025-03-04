@@ -133,7 +133,7 @@ def largestDigit(testList:list[int]) -> int:
 #end
 
 def myanswer(testlist):
-    ans = 0
+    ans = testlist[0]
     for i in testlist:
         ans = max(i,ans)
     return ans
