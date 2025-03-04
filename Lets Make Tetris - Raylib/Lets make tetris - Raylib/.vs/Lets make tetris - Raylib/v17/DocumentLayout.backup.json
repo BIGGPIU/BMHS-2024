@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|solutionrelative:Gameplay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|solutionrelative:Gameplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|solutionrelative:Gameplay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BC70891-793F-4B75-A3CA-8163BE2DED4E}|Lets make tetris - Raylib.vcxproj|C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Gameplay.h",
               "DocumentMoniker": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.h",
               "RelativeDocumentMoniker": "Gameplay.h",
@@ -65,7 +65,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Gameplay.cpp",
               "DocumentMoniker": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\Gameplay.cpp",
               "RelativeDocumentMoniker": "Gameplay.cpp",
@@ -73,12 +73,11 @@
               "RelativeToolTip": "Gameplay.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-17T18:08:59.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T18:08:59.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\diyaj\\Downloads\\Recommend me stuff\\New folder\\BMHS-2024\\Lets Make Tetris - Raylib\\Lets make tetris - Raylib\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -99,8 +98,7 @@
               "RelativeToolTip": "main.h",
               "ViewState": "AgIAACEAAAAAAAAAAAAUwC4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-25T19:23:22.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T19:23:22.024Z"
             }
           ]
         }
