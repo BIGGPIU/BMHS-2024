@@ -14,7 +14,7 @@ public class q17_intersection_of_2d_array_medium {
 
 
     private char intersection(char [][] array) {
-        return (char) 's';
+        return 97;
     }
 
 

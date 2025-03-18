@@ -1,7 +1,11 @@
-﻿  main.cpp
-C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\main.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\main.cpp(46,8): warning C4101: 'lockdown': unreferenced local variable
+﻿  Gameplay.cpp
+C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\Gameplay.cpp(115,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\Gameplay.cpp(115,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\Gameplay.cpp(116,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\Gameplay.cpp(380,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\Gameplay.cpp(381,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\Gameplay.cpp(386,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\Gameplay.cpp(387,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\Gameplay.cpp(392,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\Gameplay.cpp(393,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   Lets make tetris - Raylib.vcxproj -> C:\Users\diyaj\Downloads\Recommend me stuff\New folder\BMHS-2024\Lets Make Tetris - Raylib\Lets make tetris - Raylib\x64\Debug\Lets make tetris - Raylib.exe

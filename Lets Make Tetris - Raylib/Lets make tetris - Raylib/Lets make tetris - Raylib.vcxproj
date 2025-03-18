@@ -130,14 +130,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Gameplay.cpp" />
+    <ClCompile Include="gameplay.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="oldGameplay.cpp" />
+    <ClCompile Include="oldmain2.cpp" />
     <ClCompile Include="oldmain.cpp" />
     <ClCompile Include="Timer.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Gameplay.h" />
+    <ClInclude Include="gameplay.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="oldGameplay.h" />
+    <ClInclude Include="oldmain2.h" />
     <ClInclude Include="oldmain.h" />
     <ClInclude Include="Timer.h" />
   </ItemGroup>
