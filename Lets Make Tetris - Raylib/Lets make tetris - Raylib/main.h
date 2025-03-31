@@ -1,4 +1,8 @@
 #pragma once
+
+#include "Timer.h";
+
+
 struct Board {
 	int board[10][20];
 };
